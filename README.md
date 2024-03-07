@@ -1,6 +1,6 @@
 <!-- Encabezado -->
 <h1 align="center">
-  👾 ¡Hola! Soy Angel / IntelectoDev 🚀
+  ¡Hola! Soy IntelectoDev / Angel 🚀
 </h1>
 
 <!-- Redes Sociales -->
@@ -20,9 +20,9 @@
 <h2 align="left">
  💻 Sobre mí
 </h2>
-<h4 align="left">
-  Aquí comparto mis proyectos y aprendizajes en el mundo de la programación. Sígueme en TikTok para ver videos cortos sobre mis aventuras en el desarrollo de software y ¡juntos aprendamos más! 👨‍🎓💻
-</h4>
+<h5 align="left">
+  Aquí comparto mis proyectos y aprendizajes en el mundo de la programación. ¡juntos aprendamos más! 👨‍🎓
+</h5>
 <ul align="left">
   <li>🌐 Desarrollador Full Stack en constante evolución.</li>
   <li>📘 Estudiante de Ingeniería en Sistemas.</li>
