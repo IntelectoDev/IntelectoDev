@@ -21,7 +21,7 @@
  💻 Sobre mí
 </h2>
 <p align="left">
-  Aquí comparto mis proyectos y aprendizajes en el mundo de la programación. ¡juntos aprendamos más! 👨‍🎓
+  Aquí comparto mis proyectos y aprendizajes en el mundo de la programación. ¡Juntos aprendamos más! 👨‍🎓
 </p>
 <ul align="left">
   <li>🌐 Desarrollador Full Stack en constante evolución.</li>
