@@ -1,6 +1,6 @@
 <!-- Encabezado -->
 <h1 align="center">
-  Hola 👋 Soy Angel / IntelectoDev ✨
+  👾 ¡Hola! Soy Angel / IntelectoDev 🚀
 </h1>
 
 <!-- Redes Sociales -->
@@ -18,17 +18,20 @@
 
 <!-- Sobre mí -->
 <h2 align="left">
- 😃 Sobre mí
+ 💻 Sobre mí
 </h2>
+<h4 align="left">
+  Aquí comparto mis proyectos y aprendizajes en el mundo de la programación. Sígueme en TikTok para ver videos cortos sobre mis aventuras en el desarrollo de software y ¡juntos aprendamos más! 👨‍🎓💻
+</h4>
 <ul align="left">
-  <li>💻 Desarrollador Full Stack en constante aprendizaje.</li>
-  <li>📚 Estudiante de Ingeniería en Sistemas.</li>
-  <li>📫 Contacto: <b>the22angel98@gmail.com</b></li>
+  <li>🌐 Desarrollador Full Stack en constante evolución.</li>
+  <li>📘 Estudiante de Ingeniería en Sistemas.</li>
+  <li>📧 Contacto: <b>the22angel98@gmail.com</b></li>
 </ul>
 
 <!-- Tecnologías conocidas -->
 <h2 align="left">
-  👨🏻‍💻 Tecnologías conocidas
+  🔧 Tecnologías conocidas
 </h2>
 <p align="left">
   <a href="https://skillicons.dev">
@@ -64,7 +67,7 @@
 
 <!-- Si quieres apoyarme -->
 <h2 align="left">
-  😻 Si quieres apoyarme
+  🚀 Si quieres apoyarme
 </h2>
 <div id="apoyo">
   <p align="left">
@@ -74,7 +77,7 @@
 </div>
 
 <!-- GitHub -->
-<h2 align="left">:octocat: Estadística de GitHub</h2>
+<h2 align="left">📊 Estadística de GitHub</h2>
 <!--- stats & Trophy (start) -->
 <p align="center">
   <!--- stats (start) -->
