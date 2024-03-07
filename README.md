@@ -20,9 +20,9 @@
 <h2 align="left">
  💻 Sobre mí
 </h2>
-<h5 align="left">
+<p align="left">
   Aquí comparto mis proyectos y aprendizajes en el mundo de la programación. ¡juntos aprendamos más! 👨‍🎓
-</h5>
+</p>
 <ul align="left">
   <li>🌐 Desarrollador Full Stack en constante evolución.</li>
   <li>📘 Estudiante de Ingeniería en Sistemas.</li>
