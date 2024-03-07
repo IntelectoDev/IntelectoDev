@@ -18,7 +18,7 @@
 
 <!-- Sobre mí -->
 <h2 align="left">
-  Sobre mí 😃
+ 😃 Sobre mí
 </h2>
 <ul align="left">
   <li>💻 Desarrollador Full Stack en constante aprendizaje.</li>
@@ -28,7 +28,7 @@
 
 <!-- Tecnologías conocidas -->
 <h2 align="left">
-  Tecnologías conocidas 👨🏻‍💻
+  👨🏻‍💻 Tecnologías conocidas
 </h2>
 <p align="left">
   <a href="https://skillicons.dev">
@@ -38,7 +38,7 @@
 
 <!-- Proyectos destacados -->
 <h2 align="left">
-  Proyectos destacados 🌟
+  🌟 Proyectos destacados
 </h2>
 <div id="proyectos">
   <table align="left">
@@ -64,7 +64,7 @@
 
 <!-- Si quieres apoyarme -->
 <h2 align="left">
-  Si quieres apoyarme 😻
+  😻 Si quieres apoyarme
 </h2>
 <div id="apoyo">
   <p align="left">
@@ -74,7 +74,7 @@
 </div>
 
 <!-- GitHub -->
-<h2 align="left">GitHub :octocat:</h2>
+<h2 align="left">:octocat: Estadística de GitHub</h2>
 <!--- stats & Trophy (start) -->
 <p align="center">
   <!--- stats (start) -->
