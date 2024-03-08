@@ -72,7 +72,7 @@
 <div id="apoyo">
   <p align="left">
     <a href='https://matecito.co/IntelectoDev' rel='noopener' target='_blank'><img src='https://www.matecito.co/public/button_11.png' alt='Invitame un Matecito' height="50" width="240" /></a>
-    <a href="https://ko-fi.com/intelectodev"> <img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="intelectodev" /></a>
+    <a href="https://ko-fi.com/intelectodev"> <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" height="50" width="210" alt="intelectodev" /></a>
   </p>
 </div>
 
