@@ -1,6 +1,6 @@
 <!-- Encabezado -->
 <h1 align="center">
-  ¡Hola! Soy IntelectoDev / Angel 🚀
+  ¡Hola! Soy Angel / IntelectoDev 🚀
 </h1>
 <!-- Redes Sociales -->
 <p align="center">
