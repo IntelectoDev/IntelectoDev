@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://www.tiktok.com/@intelectotik" target="_blank"><img align="center" src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="@intelectotik" /></a>
   <a href="https://linkedin.com/in/intelectodev" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="intelectodev"/></a>
-  <a href="mailto:the22angel98@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="the22angel98@gmail.com"  /></a>
+  <a href="mailto:the22angel2000@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="the22angel2000@gmail.com"  /></a>
 </p>
 
 <!-- Badges -->
@@ -26,7 +26,7 @@
 <ul align="left">
   <li>🌐 Desarrollador Full Stack en constante evolución.</li>
   <li>📘 Estudiante de Ingeniería en Sistemas.</li>
-  <li>📧 Contacto: <b>the22angel98@gmail.com</b></li>
+  <li>📧 Contacto: <b>the22angel2000@gmail.com</b></li>
 </ul>
 
 <!-- Tecnologías conocidas -->
