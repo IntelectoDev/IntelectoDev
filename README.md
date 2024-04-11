@@ -2,7 +2,6 @@
 <h1 align="center">
   ¡Hola! Soy IntelectoDev / Angel 🚀
 </h1>
-
 <!-- Redes Sociales -->
 <p align="center">
   <a href="https://www.tiktok.com/@intelectotik" target="_blank"><img align="center" src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="@intelectotik" /></a>
