@@ -26,7 +26,7 @@
 <ul align="left">
   <li>🌐 Desarrollador Full Stack en constante evolución.</li>
   <li>📘 Estudiante de Ingeniería en Sistemas.</li>
-  <li>📧 Contacto: <b>the22angel2000@gmail.com</b></li>
+  <li>📧 Contacto: <b><a href="https://www.instagram.com/intelectogram/" target="_blank">@intelectogram</a></b></li>
 </ul>
 
 <!-- Tecnologías conocidas -->
