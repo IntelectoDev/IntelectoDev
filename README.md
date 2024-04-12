@@ -3,9 +3,9 @@
   ¡Hola! Soy Angel / IntelectoDev 🚀
 </h1>
 <!-- Redes Sociales -->
-<p align="center">
-  <a href="https://www.tiktok.com/@intelectotik" target="_blank"><img align="center" src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="@intelectotik" /></a>
   <a href="https://linkedin.com/in/intelectodev" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="intelectodev"/></a>
+  <p align="center">
+  <a href="https://www.tiktok.com/@intelectotik" target="_blank"><img align="center" src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="@intelectotik" /></a>
   <a href="mailto:the22angel2000@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="the22angel2000@gmail.com"  /></a>
 </p>
 
