@@ -19,7 +19,7 @@
 Here I share my projects and learnings in the programming world. Let's learn together! 👨‍🎓
 - 🌐 Constantly evolving Full Stack Developer.
 - 📘 Systems Engineering student.
-- 📧 Contact: [@intelectogram](https://www.instagram.com/intelectogram/)
+- 📧 Contact: <a href="https://www.instagram.com/intelectogram/" target="_blank">@intelectogram</a>
 
 <!-- Known Technologies -->
 ## 🔧 Known Technologies
@@ -27,12 +27,14 @@ Here I share my projects and learnings in the programming world. Let's learn tog
 
 <!-- Featured Projects -->
 ## 🌟 Featured Projects
-Here's one of my highlighted projects:
-[![Project 1](https://pbs.twimg.com/media/DggV0nYW4AEXRmn.jpg)](https://github.com/IntelectoDev/)
+| Project 1 |
+| --- |
+| [![Project 1](https://pbs.twimg.com/media/DggV0nYW4AEXRmn.jpg)](https://github.com/IntelectoDev/) |
+| Highlight project coming soon |
+| [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/IntelectoDev/)
 
 <!-- Support -->
 ## 🚀 If you want to support me
-If you like what I do and want to support me, consider buying me a coffee or inviting me for a Matecito:
 <p align="center">
   <a href='https://matecito.co/IntelectoDev' rel='noopener' target='_blank'><img src='https://www.matecito.co/public/button_11.png' alt='Invite me a Matecito' height="50" width="240" /></a>
   <a href="https://ko-fi.com/intelectodev" target="_blank"> <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" height="50" width="210" alt="intelectodev" /></a>
@@ -40,11 +42,8 @@ If you like what I do and want to support me, consider buying me a coffee or inv
 
 <!-- GitHub Statistics -->
 ## 📊 GitHub Statistics
-Here are some statistics about my GitHub activity:
-- **Streak Stats:** ![Streak stats](https://github-readme-streak-stats.herokuapp.com/?user=IntelectoDev&theme=dark&hide_border=false)
-- **Top Languages:** ![Top languages](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=IntelectoDev&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10)
+| Streak Stats | Top Languages |
+| --- | --- |
+| ![Streak stats](https://github-readme-streak-stats.herokuapp.com/?user=IntelectoDev&theme=dark&hide_border=false) | ![Top languages](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=IntelectoDev&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10) |
 
-<!-- Trophy -->
-## 🏆 GitHub Trophy
-I'm proud to share my GitHub Trophy:
 ![Trophy](https://github-profile-trophy.vercel.app/?username=IntelectoDev&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true)
