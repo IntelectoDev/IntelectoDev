@@ -86,55 +86,6 @@
 
 ---
 
-## 🌟 Featured Projects
-
-<div align="center">
-  <table>
-    <tr>
-      <td width="50%">
-        <h3 align="center">Próximamente</h3>
-        <p align="center">
-          <a href="https://github.com/IntelectoDev/" target="_blank">
-            <img src="https://raw.githubusercontent.com/IntelectoDev/IntelectoDev/main/project-placeholder.jpg" width="100%" alt="Project"/>
-          </a>
-        </p>
-        <p align="center">
-          <strong>Descripción del proyecto</strong> - Detalles y características destacadas del proyecto que se está desarrollando.
-        </p>
-        <p align="center">
-          <a href="https://github.com/IntelectoDev/" target="_blank">
-            <img src="https://img.shields.io/badge/Code-3d3d3d?style=for-the-badge&logo=github&logoColor=white"/>
-          </a>
-          <a href="#" target="_blank">
-            <img src="https://img.shields.io/badge/Demo-6366f1?style=for-the-badge&logo=chrome&logoColor=white"/>
-          </a>
-        </p>
-      </td>
-      <td width="50%">
-        <h3 align="center">Próximamente</h3>
-        <p align="center">
-          <a href="https://github.com/IntelectoDev/" target="_blank">
-            <img src="https://raw.githubusercontent.com/IntelectoDev/IntelectoDev/main/project-placeholder.jpg" width="100%" alt="Project"/>
-          </a>
-        </p>
-        <p align="center">
-          <strong>Descripción del proyecto</strong> - Detalles y características destacadas del proyecto que se está desarrollando.
-        </p>
-        <p align="center">
-          <a href="https://github.com/IntelectoDev/" target="_blank">
-            <img src="https://img.shields.io/badge/Code-3d3d3d?style=for-the-badge&logo=github&logoColor=white"/>
-          </a>
-          <a href="#" target="_blank">
-            <img src="https://img.shields.io/badge/Demo-6366f1?style=for-the-badge&logo=chrome&logoColor=white"/>
-          </a>
-        </p>
-      </td>
-    </tr>
-  </table>
-</div>
-
----
-
 ## 📫 Let's Connect
 
 <p align="center">
