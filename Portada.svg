@@ -1,0 +1,96 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 800 300">
+  <defs>
+    <!-- Enhanced text gradient with more vibrant colors -->
+    <linearGradient id="text-gradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#6366F1">
+        <animate attributeName="stop-color" 
+                 values="#6366F1; #8B5CF6; #EC4899; #3B82F6; #6366F1" 
+                 dur="15s" repeatCount="indefinite" />
+      </stop>
+      <stop offset="50%" stop-color="#8B5CF6">
+        <animate attributeName="stop-color" 
+                 values="#8B5CF6; #EC4899; #3B82F6; #6366F1; #8B5CF6" 
+                 dur="15s" repeatCount="indefinite" />
+      </stop>
+      <stop offset="100%" stop-color="#EC4899">
+        <animate attributeName="stop-color" 
+                 values="#EC4899; #3B82F6; #6366F1; #8B5CF6; #EC4899" 
+                 dur="15s" repeatCount="indefinite" />
+      </stop>
+    </linearGradient>
+    
+    <!-- Glow filter -->
+    <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="5" result="blur" />
+      <feComposite in="SourceGraphic" in2="blur" operator="over" />
+    </filter>
+    
+    <!-- Sparkle effect -->
+    <radialGradient id="sparkle" cx="50%" cy="50%" r="50%" fx="50%" fy="50%">
+      <stop offset="0%" stop-color="white" stop-opacity="1" />
+      <stop offset="100%" stop-color="white" stop-opacity="0" />
+    </radialGradient>
+  </defs>
+    
+  <!-- Main title with enhanced styling -->
+  <g filter="url(#glow)">
+    <text x="400" y="160" font-family="'Segoe UI', Tahoma, Geneva, Verdana, sans-serif" font-weight="bold" font-size="52" text-anchor="middle" fill="url(#text-gradient)" letter-spacing="2">
+      FULL STACK DEVELOPER
+      <animate attributeName="opacity" values="0.9;1;0.9" dur="4s" repeatCount="indefinite" />
+    </text>
+  </g>
+  
+  <!-- Animated decorative lines -->
+  <path d="M150,180 C250,210 550,150 650,180" stroke="url(#text-gradient)" stroke-width="3" fill="none" stroke-linecap="round">
+    <animate attributeName="d" 
+             values="M150,180 C250,210 550,150 650,180;
+                     M150,180 C250,150 550,210 650,180;
+                     M150,180 C250,210 550,150 650,180" 
+             dur="10s" repeatCount="indefinite" />
+  </path>
+  
+  <!-- Tech stack with improved spacing -->
+  <g font-family="monospace" font-size="14" fill="url(#text-gradient)" opacity="0.7" id="techSymbols">
+    <!-- Using individual text elements with appropriate spacing -->
+    <text x="200" y="210" text-anchor="middle">HTML</text>
+    <text x="245" y="210" text-anchor="middle">|</text>
+    <text x="290" y="210" text-anchor="middle">CSS</text>
+    <text x="335" y="210" text-anchor="middle">|</text>
+    <text x="385" y="210" text-anchor="middle">JavaScript</text>
+    <text x="435" y="210" text-anchor="middle">|</text>
+    <text x="480" y="210" text-anchor="middle">Python</text>
+    <text x="525" y="210" text-anchor="middle">|</text>
+    <text x="570" y="210" text-anchor="middle">Node.js</text>
+    
+    <animate xlink:href="#techSymbols" attributeName="opacity" values="0.5;0.8;0.5" dur="6s" repeatCount="indefinite" />
+  </g>
+  
+  <!-- Sparkle animations -->
+  <g>
+    <circle class="sparkle" cx="200" cy="140" r="3" fill="white">
+      <animate attributeName="opacity" values="0;1;0" dur="2s" begin="0.5s" repeatCount="indefinite" />
+    </circle>
+    <circle class="sparkle" cx="600" cy="150" r="2" fill="white">
+      <animate attributeName="opacity" values="0;1;0" dur="3s" begin="1s" repeatCount="indefinite" />
+    </circle>
+    <circle class="sparkle" cx="400" cy="120" r="3" fill="white">
+      <animate attributeName="opacity" values="0;1;0" dur="2.5s" begin="0s" repeatCount="indefinite" />
+    </circle>
+    <circle class="sparkle" cx="500" cy="130" r="2" fill="white">
+      <animate attributeName="opacity" values="0;1;0" dur="3.5s" begin="1.5s" repeatCount="indefinite" />
+    </circle>
+    <circle class="sparkle" cx="300" cy="150" r="2" fill="white">
+      <animate attributeName="opacity" values="0;1;0" dur="2.8s" begin="0.7s" repeatCount="indefinite" />
+    </circle>
+  </g>
+  
+  <!-- Subtle code waves -->
+  <path d="M150,230 Q200,240 250,230 T350,230 T450,230 T550,230 T650,230" 
+        fill="none" stroke="url(#text-gradient)" stroke-width="1" opacity="0.3">
+    <animate attributeName="d" 
+             values="M150,230 Q200,240 250,230 T350,230 T450,230 T550,230 T650,230;
+                     M150,230 Q200,220 250,230 T350,230 T450,230 T550,230 T650,230;
+                     M150,230 Q200,240 250,230 T350,230 T450,230 T550,230 T650,230" 
+             dur="8s" repeatCount="indefinite" />
+  </path>
+</svg>
