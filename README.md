@@ -19,8 +19,6 @@
 
 ## 💫 About Me
 
-<img align="right" src="https://raw.githubusercontent.com/IntelectoDev/IntelectoDev/main/coding.gif" width="140">
-
 - 🚀 Full Stack Developer with a passion for creating impactful applications
 - 🎓 Systems Engineering student constantly learning and improving
 - 💡 Passionate about solving complex problems with elegant solutions
