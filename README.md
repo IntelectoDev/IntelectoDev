@@ -19,8 +19,8 @@
 
 ## 💫 About Me
 
-- 🚀 Full Stack Developer with a passion for creating impactful applications
-- 🎓 Systems Engineering student constantly learning and improving
+- 🚀 Full Stack Engineer specializing in Scalable Web & Mobile Solutions
+- 💻 Passionate about building high-performance applications (React, Node.js, Python)
 - 💡 Passionate about solving complex problems with elegant solutions
 - 🌱 Currently exploring advanced JavaScript frameworks and Cloud technologies
 - 🔍 Looking to collaborate on open source projects and innovative web applications
